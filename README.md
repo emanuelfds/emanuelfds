@@ -1,4 +1,7 @@
-### Hi there 👋
+![SRE](https://t3.ftcdn.net/jpg/04/71/33/20/360_F_471332000_fYl7wc1QOhJaNzYHnULzBlBwQX2VhT2B.jpg)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emanuelfds)](https://github.com/emanuelfds)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelfds/)](https://www.linkedin.com/in/emanuelfds/)
 
 <!--
 **emanuelfds/emanuelfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

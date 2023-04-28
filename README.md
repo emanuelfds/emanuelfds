@@ -1,6 +1,6 @@
 <div align="center">
 
-![SRE](https://t3.ftcdn.net/jpg/04/71/33/20/360_F_471332000_fYl7wc1QOhJaNzYHnULzBlBwQX2VhT2B.jpg)
+![SRE](https://drive.google.com/uc?id=1_R2Tn7rO1KnYYZB-NIX7FnEoOce6i91_)
 
 </div>
 

@@ -1,11 +1,8 @@
-![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelfds&show_icons=true&theme=nord)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=nord)
+![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelfds&show_icons=true&theme=nord&rank_icon=github)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/emanuelfds)](https://github.com/emanuelfds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelfds/)](https://www.linkedin.com/in/emanuelfds/)
-
 
 
 <!--
